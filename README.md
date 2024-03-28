@@ -29,6 +29,10 @@ Welcome to the Delivery Manager App Guide! This guide provides essential informa
   - Add new commands by providing details such as product name, date, time, and selecting the client.
   - Remove existing commands from the system.
   - View a list of commands along with their associated details such as ID, product name, livreur ID, client ID, date, and time.
+    
+## Implementation Details:
+- The interface of the Delivery Manager application is built using Tkinter, a Python library for creating GUIs.
+- Data is stored and managed using a MySQL database. However, for demonstration purposes, we linked the application to a SQLite database using the sqlite3 library in Python.
 
 ## Additional Functionality:
 - The application provides options to refresh data in real-time to ensure up-to-date information is displayed.
