@@ -38,8 +38,4 @@ Welcome to the Delivery Manager App Guide! This guide provides essential informa
 - The application provides options to refresh data in real-time to ensure up-to-date information is displayed.
 - You can interact with the tables using standard operations such as selecting items and performing actions like adding or removing records.
 
-## Important Notes:
-- Please ensure to log out after completing your tasks to maintain security.
-- For any technical issues or queries, please contact the system administrator or technical support.
-
 Thank you for using the Delivery Manager App Guide. We hope this guide helps you effectively manage deliveries and operations using the Delivery Manager application.
